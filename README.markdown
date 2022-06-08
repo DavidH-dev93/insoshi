@@ -67,9 +67,9 @@ These are the steps to get up and running with the Insoshi Rails app.
 
 ### Git steps
 
-Our [public Git repository](http://github.com/insoshi/insoshi) is hosted on GitHub. You can clone the the repository with the command
+Our [public Git repository](http://github.com/DavidH-dev93/insoshi) is hosted on GitHub. You can clone the the repository with the command
 
-    $ git clone git://github.com/insoshi/insoshi.git
+    $ git clone git://github.com/DavidH-dev93/insoshi.git
 
 The clone make take a moment to complete (mainly due to the frozen Rails gems).
 
